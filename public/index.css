@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #151E3D;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.box-holder {
+    background-color: white;
+    width: 30%;
+    height: 10vh;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.title {
+    text-align: center;
+    font-weight: 700;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#submit {
+    padding: 10px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#quote {
+    text-align: center;
+}
